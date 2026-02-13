@@ -1,0 +1,1 @@
+This is my Homework-1 for CS3338, finished at 3:20 PM (By Philip Guzman)
